@@ -1,4 +1,6 @@
 # Image files
+img/
+img/*
 *.png
 
 # Byte-compiled / optimized / DLL files
